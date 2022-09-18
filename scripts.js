@@ -47,8 +47,14 @@ const members = [
   },
   {
     Picture: './Pictures/speaker3.jpg',
+    Name: 'Joselyn Quispillo',
+    Title: 'Tesorera',
+    Description: 'Some quick example text to build on the card title and make up the bulk of the card\'s content.',
+  },
+  {
+    Picture: './Pictures/speaker3.jpg',
     Name: 'Maribel',
-    Title: 'Socio activo',
+    Title: 'Socia activa',
     Description: 'Some quick example text to build on the card title and make up the bulk of the card\'s content.',
   },
   {
@@ -60,7 +66,7 @@ const members = [
   {
     Picture: './Pictures/speaker1.jpg',
     Name: 'Ángel Rugel',
-    Title: 'Socio activo',
+    Title: 'Animador',
     Description: 'Some quick example text to build on the card title and make up the bulk of the card\'s content.',
   },
 ];

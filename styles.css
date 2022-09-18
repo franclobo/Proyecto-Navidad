@@ -448,16 +448,21 @@
 
 .contact {
   padding-bottom: 80px;
-  font-size: 40px;
+  font-size: 30px;
+}
+
+.email {
+  font-size: 30px;
+  color: #ec5242;
 }
 
 .logo-title {
-  font-size: 70px;
+  font-size: 40px;
   margin-top: 70px;
 }
 
 .logo-about {
-  font-size: 40px;
+  font-size: 30px;
   margin: 70px;
 }
 
@@ -477,12 +482,11 @@
 }
 
 .alumni-title {
-  font-size: 70px;
+  font-size: 40px;
 }
 
 .alumni-info {
-  font-size: 40px;
-  line-height: 24px;
+  font-size: 30px;
   margin-bottom: 33px;
 }
 
