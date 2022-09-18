@@ -83,7 +83,7 @@ const seeMembers = () => {
 };
 
 ourMembers.innerHTML = `
-<h2 class="list-members"> Nuestros Socios</h2>
+<h2 class="list-members" id="socios"> Nuestros Socios</h2>
     <div class="guide-bar-members"></div>
         ${seeMembers()}
         </div>`;
