@@ -22,7 +22,7 @@ optMenu.addEventListener('click', () => {
 
 const members = [
   {
-    Picture: './Pictures/speaker1.jpg',
+    Picture: './Pictures/diego.png',
     Name: 'Diego Peñafiel',
     Title: 'Presidente',
     Description: 'Some quick example text to build on the card title and make up the bulk of the card\'s content.',
