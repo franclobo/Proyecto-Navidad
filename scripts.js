@@ -20,39 +20,45 @@ optMenu.addEventListener('click', () => {
 
 const members = [
   {
-    Picture: './Pictures/speaker8.jpg',
-    Name: 'Yochai Benkler',
-    Title: 'Professor',
-    Description: "Some quick example text to build on the card title and make up the bulk of the card's content.",
-  },
-  {
-    Picture: './Pictures/speaker7.jpg',
-    Name: 'Kiham Chon',
-    Title: 'Professor',
-    Description: "Some quick example text to build on the card title and make up the bulk of the card's content.",
-  },
-  {
-    Picture: './Pictures/speaker5.jpg',
-    Name: 'SohYeong Noh',
-    Title: 'Professor',
-    Description: "Some quick example text to build on the card title and make up the bulk of the card's content.",
-  },
-  {
-    Picture: './Pictures/speaker6.jpg',
-    Name: 'Julia Leda',
-    Title: 'Professor',
-    Description: "Some quick example text to build on the card title and make up the bulk of the card's content.",
-  },
-  {
-    Picture: './Pictures/speaker3.jpg',
-    Name: 'Lila Treticov',
-    Title: 'Professor',
+    Picture: './Pictures/speaker1.jpg',
+    Name: 'Diego Peñafiel',
+    Title: 'Presidente',
     Description: "Some quick example text to build on the card title and make up the bulk of the card's content.",
   },
   {
     Picture: './Pictures/speaker1.jpg',
-    Name: 'Ryan Merkley',
-    Title: 'Professor',
+    Name: 'Jefferson Peñafiel',
+    Title: 'Socio activo',
+    Description: "Some quick example text to build on the card title and make up the bulk of the card's content.",
+  },
+  {
+    Picture: './Pictures/speaker1.jpg',
+    Name: 'Bryan Macias',
+    Title: 'Logística',
+    Description: "Some quick example text to build on the card title and make up the bulk of the card's content.",
+  },
+  {
+    Picture: './Pictures/speaker3.jpg',
+    Name: 'Kerly Guamán',
+    Title: 'Secretaria',
+    Description: "Some quick example text to build on the card title and make up the bulk of the card's content.",
+  },
+  {
+    Picture: './Pictures/speaker3.jpg',
+    Name: 'Maribel',
+    Title: 'Socio activo',
+    Description: "Some quick example text to build on the card title and make up the bulk of the card's content.",
+  },
+  {
+    Picture: './Pictures/speaker1.jpg',
+    Name: 'Cristian Sosoranga',
+    Title: 'Enfermero',
+    Description: "Some quick example text to build on the card title and make up the bulk of the card's content.",
+  },
+  {
+    Picture: './Pictures/speaker1.jpg',
+    Name: 'Ángel Rugel',
+    Title: 'Socio activo',
     Description: "Some quick example text to build on the card title and make up the bulk of the card's content.",
   },
 ];
@@ -75,7 +81,7 @@ const seeMembers = () => {
 };
 
 ourMembers.innerHTML = `
-<h2 class="list-members">Our Teachers</h2>
+<h2 class="list-members"> Nuestros Socios</h2>
     <div class="guide-bar-members"></div>
         ${seeMembers()}
         </div>`;
