@@ -75,7 +75,7 @@ const seeMembers = () => {
   let str = '';
   for (let i = 0; i < members.length; i += 1) {
     str += `<div class="card-member">
-      <div class="picture"><img src=${members[i].Picture} alt=${members[i].Name} style="max-height:178px;max-width:178"></div>
+      <div><img class="picture" src=${members[i].Picture} alt=${members[i].Name} style="max-height:178px;max-width:178"></div>
       <div>
         <div class="card-body">
           <h3 class="member-name">${members[i].Name}</h3>
