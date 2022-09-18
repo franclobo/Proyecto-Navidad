@@ -448,6 +448,7 @@
 
 .contact {
   padding-bottom: 80px;
+  font-size: 40px;
 }
 
 .logo-title {
@@ -456,7 +457,7 @@
 }
 
 .logo-about {
-  font-size: 1em;
+  font-size: 40px;
   margin: 70px;
 }
 
