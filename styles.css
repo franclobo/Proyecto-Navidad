@@ -10,6 +10,8 @@
 
 .container {
   display: flex;
+  justify-content: center;
+  align-items: center;
   flex-direction: column;
   font-family: 'Lato', sans-serif;
   width: 100%;
