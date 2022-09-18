@@ -1,44 +1,6 @@
-# Capstone-project---Conference-page
+# Proyecto Navidad
 
-In my first Capstone project I have done the following:
-
-1. Personalize the content of your page. 
-2. Choose a different topic from the one in the original design.
-3. Follow these [design guidelines](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), including:
-
-- Colors.
-- Typography: font face, size, and weight.
-- Layout: composition and space between elements.
-
-4. The pages should look almost identical to the original design. Small adjustments like text or image changes are acceptable.
-5. Build only these 2 pages:
-- The home page.
-- The about page.
-
-Each of these pages have versions for 2 different screen sizes:
-- Mobile: up to 768px wide.
-- Desktop: 768px or wider.
-
-6. Interactions
-
-- Links
-
-The home page has a link to the about page in the menu.
-The logo in the header links to the home page.
-
-- Mobile menu
-
-- When the user clicks (or taps) the hamburger button on the header, the mobile menu appears over the page.
-- **There are no guidelines for the mobile menu in the docs, but you should implement it so it is consistent with the design (colors, typography, spacings, etc.).**
-- The mobile menu has a close (X) button that closes the menu.
-
-7. Dynamic page
-
-- The section "Featured speakers" has been created dynamically in JavaScript.
-- Use a JavaScript variable with the data about the speakers and use it when the page loads to create the HTML for this section dynamically.
-
-8. Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
-
+Esta es la página web the Proyecto Navidad.
 
 # Built With
 
@@ -56,9 +18,7 @@ GitHub & Visual Studio Code
 
 # Deployment
 
-[Conference-page](https://franclobo.github.io/Conference-page/)<br>
-![image](https://user-images.githubusercontent.com/58642949/176052636-2f25edcb-999a-4f26-9528-a3bd84a9fbfd.png)
-
+[Proyecto Navidad](https://franclobo.github.io/Conference-page/)<br>
 
 # Authors
 
