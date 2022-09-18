@@ -339,8 +339,8 @@
 }
 
 .picture {
-  width: 178px;
-  height: 177px;
+  max-width: 178px;
+  max-height: 177px;
 }
 
 .description-member {
@@ -816,8 +816,8 @@
   }
 
   .picture {
-    width: 178px;
-    height: 177px;
+    max-width: 178px;
+    max-height: 177px;
   }
 
   .description-member {

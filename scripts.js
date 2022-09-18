@@ -64,7 +64,7 @@ const members = [
     Description: 'Some quick example text to build on the card title and make up the bulk of the card\'s content.',
   },
   {
-    Picture: './Pictures/speaker1.jpg',
+    Picture: './Pictures/angel.png',
     Name: 'Ángel Rugel',
     Title: 'Animador',
     Description: 'Some quick example text to build on the card title and make up the bulk of the card\'s content.',
