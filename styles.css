@@ -909,6 +909,5 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: auto;
-  margin:20px;
+  margin: 20px;
 }
