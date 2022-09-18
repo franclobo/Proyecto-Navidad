@@ -2,7 +2,7 @@
   "dependencies": {
     "bootstrap": "^5.1.3"
   },
-  "name": "capstone-project---conference-page",
+  "name": "proyecto-navidad",
   "description": "",
   "version": "1.0.0",
   "main": "scripts.js",
@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/franclobo/Capstone-project---Conference-page.git"
+    "url": "git+https://github.com/franclobo/proyecto-navidad.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/franclobo/Capstone-project---Conference-page/issues"
+    "url": "https://github.com/franclobo/proyecto-navidad/issues"
   },
-  "homepage": "https://github.com/franclobo/Capstone-project---Conference-page#readme"
+  "homepage": "https://github.com/franclobo/proyecto-navidad#readme"
 }
