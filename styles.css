@@ -344,8 +344,6 @@
 .picture {
   max-width: 178px;
   max-height: 177px;
-  margin: 40px;
-  padding: 10px;
 }
 
 .description-member {
@@ -823,8 +821,6 @@
   .picture {
     max-width: 178px;
     max-height: 177px;
-    margin: 40px;
-    padding: 10px;
   }
 
   .description-member {
