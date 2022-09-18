@@ -40,7 +40,7 @@ const members = [
     Description: 'Some quick example text to build on the card title and make up the bulk of the card\'s content.',
   },
   {
-    Picture: './Pictures/speaker3.jpg',
+    Picture: './Pictures/kerly.png',
     Name: 'Kerly Guamán',
     Title: 'Secretaria',
     Description: 'Some quick example text to build on the card title and make up the bulk of the card\'s content.',
@@ -52,7 +52,7 @@ const members = [
     Description: 'Some quick example text to build on the card title and make up the bulk of the card\'s content.',
   },
   {
-    Picture: './Pictures/speaker3.jpg',
+    Picture: './Pictures/mary.png',
     Name: 'Maribel',
     Title: 'Socia activa',
     Description: 'Some quick example text to build on the card title and make up the bulk of the card\'s content.',
