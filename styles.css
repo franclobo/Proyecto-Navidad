@@ -140,7 +140,6 @@
   height: auto;
   flex-direction: column;
   justify-content: center;
-  background-image: url(./icons/main_big.png);
   background-repeat: repeat;
   background-position: center center;
 }
@@ -216,7 +215,6 @@
   height: auto;
   justify-content: center;
   align-items: center;
-  background-image: url(./Pictures/blackBg.jpg);
 }
 
 .program-title {
@@ -621,7 +619,6 @@
     height: auto;
     flex-direction: column;
     justify-content: center;
-    background-image: url(./icons/main_big.png);
     background-repeat: repeat;
     background-position: center center;
   }
@@ -701,7 +698,6 @@
     justify-content: center;
     align-items: center;
     height: 637px;
-    background-image: url(./Pictures/blackBg.jpg);
   }
 
   .card-group {
