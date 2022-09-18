@@ -544,11 +544,13 @@
     width: 9px;
     height: 18px;
     color: #fff;
+    cursor: pointer;
   }
 
   .twitter-page {
     width: 20px;
     height: 17px;
+    cursor: pointer;
   }
 
   .navigation {
