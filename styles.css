@@ -861,3 +861,54 @@
     align-items: center;
   }
 }
+
+/* PopUp window */
+.popup-window {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #f9f9fa;
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  border: 70px solid rgba(26, 34, 54, 0.95);
+  z-index: 10;
+}
+
+.close-popup {
+  justify-content: flex-end;
+  border: none;
+  background-color: transparent;
+}
+
+.popup-title {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  color: #ec5242;
+}
+
+.popup-p {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #1a2236;
+}
+
+.hidePopup {
+  display: none;
+}
+
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: auto;
+  margin:20px;
+}
