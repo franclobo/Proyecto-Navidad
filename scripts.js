@@ -98,7 +98,7 @@ function displayProject() {
       </div>
       <div class="popup-content">
         <p class="popup-p">
-          Agradecemos tu contribución económica al numero de cuenta:
+          Agradecemos tu contribución económica al número de cuenta:
           <br/> Banco Pichincha
           <br/> Cuenta de ahorros
           <br/> 2204188183
