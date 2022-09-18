@@ -339,7 +339,7 @@
 }
 
 .picture {
-  width: 178px;
+  max-width: 178px;
   max-height: 177px;
 }
 
