@@ -98,8 +98,8 @@ function displayProject() {
   projectPopup.classList.remove('hidePopup');
   projectPopup.innerHTML = `
     <div class="popup-container">
+      <button class="close-popup" onclick="projectPopup.classList.add('hidePopup');"><img src="./Icons/cross.svg" alt=""></button>
       <div class="popup-header">
-        <button class="close-popup" onclick="projectPopup.classList.add('hidePopup');"><img src="./Icons/cross.svg" alt=""></button>
         <h3 class="popup-title">Colabora con Nosotros</h3>
       </div>
       <div class="popup-content">
