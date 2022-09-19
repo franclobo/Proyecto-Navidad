@@ -879,7 +879,7 @@
   z-index: 10;
 }
 
-.close-popup {
+.close-popup > img {
   justify-content: flex-end;
   border: none;
   background-color: transparent;
